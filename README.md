@@ -2,8 +2,8 @@
 # Web Scraping Project: Extracting Match Times and Standings
 
 ## Introduction
-This project is focused on extracting match times and standings from a website  and storing the data for further analysis. The goal is to automate the process of data collection and provide an up-to-date database for sports fans and analysts.
-[shoot-yalla website](https://live.shoot-yalla.tv/)
+This project is focused on extracting match times and standings from a [shoot-yalla website](https://live.shoot-yalla.tv/)  and storing the data for further analysis. The goal is to automate the process of data collection and provide an up-to-date database for sports fans and analysts.
+
 ## Requirements
 The following packages are required for this project:
 - `beautifulsoup4`
